@@ -22,4 +22,4 @@ Experience the Music Player live:
 - 🖥 Fully responsive **desktop, tablet, and mobile devices**.  
 - ⚡ Enjoy **drag & drop playlist management, real-time song info, and smooth playback**.
 
-[View Live Demo]()
+[View Live Demo](https://ali-dw-web.github.io/MUSIC-player/)
